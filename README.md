@@ -14,10 +14,10 @@
 ### [Portfolio para una Diseñadora](https://github.com/lnahuelfb/variocolorida)
 Creé un portafolio para una diseñadora utilizando **Next.js**, **Node.js**, y **MongoDB**. El objetivo era proporcionar una plataforma elegante y moderna para mostrar sus trabajos de diseño gráfico.
 
-### [API de Productos en desarrollo]
+### API de Productos en desarrollo
 Actualmente estoy desarrollando una API con **Python**, **Flask**, y **PostgreSQL**. Esta API proporcionará información detallada sobre productos, incluyendo precios y descripciones.
 
-### [Página de Documentación en desarrollo]
+### Página de Documentación en desarrollo
 Estoy trabajando en una página web para documentar la API mencionada anteriormente. Esta página está construida con **Next.js** y **TypeScript**.
 
 ## 🌱 Siempre Aprendiendo
