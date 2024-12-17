@@ -7,7 +7,6 @@
 - **Frontend**: Next.js, React, TypeScript
 - **Backend**: Node.js, Python, Flask
 - **Bases de Datos**: MongoDB, PostgreSQL
-- **Otros**: CSS, HTML, JavaScript
 
 ## 🚀 Proyectos Destacados
 
@@ -28,5 +27,5 @@ Estoy constantemente explorando nuevas tecnologías y mejorando mis habilidades.
 
 Si quieres colaborar en un proyecto o simplemente charlar sobre desarrollo web, ¡no dudes en contactarme!
 
-- **Correo**: [lnahuelfernandezb@gmail.com](mailto:lnahuelfernandezb@gmail.com)
+- **Correo**: [lnahuelfb.dev@gmail.com](mailto:lnahuelfb.dev@gmail.com)
 - **LinkedIn**: [Mi linkedIn!](https://www.linkedin.com/in/nahuel-fernandez-beschtedt/)
